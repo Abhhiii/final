@@ -8,3 +8,5 @@
 8. git commit -m "message"
 9. git push origin master
 10. when done create new branch and start working on that , git checkout -b <branch_name>
+11. when switching to older repo, git checkout <branch-name>
+12. git pull
